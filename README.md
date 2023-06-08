@@ -19,7 +19,7 @@ In contrast, the R-squared value for age and loyalty points suggests that only a
 
 
 ### Make predictions with clustering.
-Since the initial scatterplot, five clusters were visible at first glance, with a clear distribution at the center and corners of the grid. Both the Elbow and Silhouette methods confirmed this initial impression. While most of the values are in the central part of the plot in cluster 0, the values are fairly distributed in the other four clusters in the corners. 
+Since the initial scatterplot, five clusters were visible at first glance, with a clear distribution at the centre and corners of the grid. Both the Elbow and Silhouette methods confirmed this initial impression. While most of the values are in the central part of the plot in cluster 0, the values are fairly distributed in the other four clusters in the corners. 
 
 
 
