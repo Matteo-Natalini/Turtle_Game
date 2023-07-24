@@ -1,3 +1,3 @@
 ## Introduction
-***Welcome to the Turtle Games report, a leading global game manufacturer and retailer. This report will cover key objectives that Turtle Games wants to explore, including customer loyalty point accumulation, market segmentation through customer groups, utilization of customer reviews for marketing campaigns, the impact each product has on sales, and the relationship between North American, European, and global sales.***
+***Greetings and welcome to the business analysis for Turtle Games, a leading global game manufacturer and retailer. This report will delve into the crucial objectives that Turtle Games intends to explore, which include customer loyalty point accumulation, market segmentation based on customer groups, utilization of customer reviews for marketing campaigns, the effect of each product on sales, and the correlation between North American, European, and global sales.***
 
